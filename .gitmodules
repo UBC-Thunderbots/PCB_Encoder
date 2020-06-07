@@ -1,0 +1,3 @@
+[submodule "Altium_Libraries"]
+	path = Altium_Libraries
+	url = https://github.com/UBC-Thunderbots/Altium_Libraries
