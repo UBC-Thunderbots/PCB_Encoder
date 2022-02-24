@@ -131,40 +131,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPDLFQDX
 
-[Document6]
-DocumentPath=..\..\..\..\Altium_Libraries\libraries-v1.0\Project Outputs for AltiumLibraries\AltiumLibraries.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=..\..\..\..\..\..\Downloads\ul_SM04B-SURS-TF-LF-SN-\AltiumDesigner\2022-02-12_23-19-29\Project Outputs for SM04B-SURS-TF_LF__SN_\SM04B-SURS-TF_LF__SN_.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
