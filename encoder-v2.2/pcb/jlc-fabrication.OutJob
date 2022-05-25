@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=JLC_Fabrication.OutJob
+Name=jlc-fabrication.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -45,7 +45,7 @@ OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908293~1,16908301~1,16908303~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|DocumentPath=D:\user\thunderbots\PCB_Encoder\Digital_Wheel_Encoders\DigitalWheelEncoder\Digital_Encoder_Layout.PcbDoc
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=SXAREESG|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908293~1,16908301~1,16908303~1,16973837~1|PlotBoardProfile=False|PlotBoardProfileFileName=encoder-layout.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=False|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=encoder-layout.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=False|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=encoder-layout.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UserLayerName.Caption0=encoder-layout.GBO|UserLayerName.Caption1=encoder-layout.GTP|UserLayerName.Caption10=encoder-layout.GBS|UserLayerName.Caption11=encoder-layout.GM16|UserLayerName.Caption12=encoder-layout.GM1|UserLayerName.Caption13=encoder-layout.GBL|UserLayerName.Caption14=encoder-layout.GM5|UserLayerName.Caption15=encoder-layout.GM15|UserLayerName.Caption16=encoder-layout.GTL|UserLayerName.Caption17=encoder-layout.GBP|UserLayerName.Caption2=encoder-layout.GTO|UserLayerName.Caption3=encoder-layout.GTS|UserLayerName.Caption4=encoder-layout.GM4|UserLayerName.Caption5=encoder-layout.GM13|UserLayerName.Caption6=encoder-layout.GKO|UserLayerName.Caption7=encoder-layout.GPT|UserLayerName.Caption8=encoder-layout.GPB|UserLayerName.Caption9=encoder-layout.GM7|UserLayerName.Count=18|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16908304|UserLayerName.Layer12=16908289|UserLayerName.Layer13=16842751|UserLayerName.Layer14=16908293|UserLayerName.Layer15=16908303|UserLayerName.Layer16=16777217|UserLayerName.Layer17=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908301|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16908295|DocumentPath=C:\Users\klomp\Documents\Extracurricular\thunderbots\PCB_Encoder\encoder-v2.2\pcb\encoder-layout.PcbDoc
 OutputType2=BOM_PartType
 OutputName2=Bill of Materials
 OutputCategory2=Report
@@ -85,7 +85,7 @@ Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for project-wheel-encoder-v2.1
+OutputBasePath2=Project Outputs for project-wheel-encoder-v2.2
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -110,9 +110,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\user\thunderbots\PCB_Encoder\Digital_Wheel_Encoders\DigitalWheelEncoder\Project Outputs for DigitalWheelEncoder\
+OutputFilePath3=C:\Users\klomp\Documents\Extracurricular\thunderbots\PCB_Encoder\encoder-v2.2\pcb\Project Outputs for project-wheel-encoder-v2.2\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for project-wheel-encoder-v2.1
+OutputBasePath3=Project Outputs for project-wheel-encoder-v2.2
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -125,7 +125,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for project-wheel-encoder-v2.1
+OutputBasePath4=Project Outputs for project-wheel-encoder-v2.2
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -164,7 +164,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=D:\user\thunderbots\PCB_Encoder\Digital_Wheel_Encoders\DigitalWheelEncoder\Project Outputs for DigitalWheelEncoder\
+RelativeOutputPath3=C:\Users\klomp\Documents\Extracurricular\thunderbots\PCB_Encoder\encoder-v2.2\pcb\Project Outputs for project-wheel-encoder-v2.2\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
